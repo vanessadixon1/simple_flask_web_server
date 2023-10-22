@@ -1,6 +1,6 @@
 # Simple Flask Web Server
 
-This is a simple Flask Web Server that listens for http request and response. This web server has greet web api endpoints and it has cal web api endpoint that return some data to the view based on param args and pathvariable
+This is a simple Flask Web Server that listens for http request and responds. This web server has greet web api endpoints and it has cal web api endpoint that return some data to the view based on param args and pathvariable
 
 ### Features
 
